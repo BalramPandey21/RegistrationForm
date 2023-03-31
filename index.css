@@ -7,9 +7,10 @@ color:#003366;
 }
 
 .form{
+  width:100%;
 text-align: center;
 background: linear-gradient(to bottom, #ffffff 0%, #6699ff 100%);
-margin:10px 400px 10px 400px;
+margin:1% 20% 1% 20%;
 border-radius: 12px;
 }
 input{
